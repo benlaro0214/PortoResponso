@@ -1,9 +1,31 @@
 body  
    { background-image: url("269217.png"); 
     background-color: #cccccc;
-    
-
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
    }
+
+.resize {
+    padding: 0 6px;
+    float: left;
+    height: auto;
+    width: auto;
+}
+.picture {
+    width: 100%;
+    height: auto;
+}
+
+.blurb {
+    padding: 20px;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+   
+
+
     
 
   
