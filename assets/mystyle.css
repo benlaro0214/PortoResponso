@@ -4,33 +4,9 @@ body
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    color: white;
    }
 
-<!--For pictures-->   
-
-.resize {
-    padding: 0 6px;
-    float: left;
-    height: auto;
-    width: auto;
-}
-.picture {
-    width: 100%;
-    height: auto;
-}
-
-.blurb {
-    padding: 20px;
-    text-align: center;
-}
-* {
-    box-sizing: border-box;
-   
-<!-- For grid--> 
-
-.row {
-
-}
-
-    
+   h1 {
+    color: white;
 
