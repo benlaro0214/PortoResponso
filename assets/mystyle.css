@@ -1,5 +1,5 @@
 body  
-   { background-image: url("269217.png"); 
+   { background-image: url("background2.png"); 
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -7,6 +7,14 @@ body
     color: white;
    }
 
-   h1 {
+h1 {
     color: white;
+}
+
+TBox {
+    margin: 30px;
+        background-color: #ffffff;
+        border: 1px solid black;
+        opacity: 2;
+}
 
